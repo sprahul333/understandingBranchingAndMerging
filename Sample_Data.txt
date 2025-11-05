@@ -1,0 +1,1 @@
+Understanding GIT Branching Concepts in detail and implementing it for the project
