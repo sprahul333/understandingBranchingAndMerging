@@ -1,4 +1,8 @@
 This is related to GIT MASTERY 
+<<<<<<< HEAD
 Seocnd line of data
 third line of data
 fourth line of data
+=======
+King of the ocean is missin
+>>>>>>> feature1
