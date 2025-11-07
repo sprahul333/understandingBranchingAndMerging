@@ -1,2 +1,8 @@
 
-New sets of data that is being operated upon, please check the information on the console
+ADding more statements for better execution and better understanding of the data
+
+Need more tests to run to analyse the issues
+
+Sample One TO be Taken 
+
+Sample to be understand
